@@ -1,0 +1,59 @@
+---
+title: "What is Missing Data?"
+subtitle: "What should we do about it?"
+author: 
+  - Fatimah Yunusa
+thanks: "Code and data are available at: LINK."
+date: today
+date-format: long
+format: pdf
+number-sections: true
+bibliography: references.bib
+---
+
+
+
+
+# Introduction
+
+-What is missing data?
+-Why is it important to us?
+-why must we handle missing data appropriately? 
+
+# Types of Missing Data
+
+-Missing Completely At Random 
+-Missing At Random 
+-Missing Not At Random 
+
+With examples and implications of each type of missing data. 
+
+
+
+
+# What Causes Missing Data? 
+
+
+
+
+
+# Consequences of ignoring Missing Data 
+
+
+
+# Handling Missing Data 
+
+
+
+# Conclusion
+
+
+
+
+
+\newpage
+
+
+# References
+
+
