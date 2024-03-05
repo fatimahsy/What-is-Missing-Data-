@@ -4,6 +4,7 @@ subtitle: "What should we do about it?"
 author: 
   - Fatimah Yunusa
 date: today
+thanks: https://github.com/fatimahsy/What-is-Missing-Data-.git
 date-format: long
 format: pdf
 number-sections: true
